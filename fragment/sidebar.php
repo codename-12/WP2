@@ -140,7 +140,7 @@
             </ul>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="" class="nav-link">
                 <i class="nav-icon fas fa-copy"></i>
                 <p>
                     Laporan
@@ -149,13 +149,13 @@
             </a>
             <ul class="nav nav-treeview">
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="index.php?hal=laporan_harian" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Laporan Harian</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="index.php?hal=laporan_bulanan" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Laporan Bulanan</p>
                     </a>
